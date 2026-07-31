@@ -1,0 +1,6 @@
+{
+  "name": "FitCore AI – Smart Gym Management System",
+  "description": "Enterprise smart gym & fitness center management system featuring RBAC, KPI dashboards, AI training & business insights, interactive member & trainer modules, QR attendance check-in, plans, billing, inventory, analytics, and printable reports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
